@@ -51,6 +51,7 @@ function optionsFactory(inpOptions, callback) {
         maxWidth: inpOptions.maxWidth,
         maxHeight: inpOptions.maxHeight,
         showMenuBar: inpOptions.showMenuBar || false,
+        titleBarStyle: inpOptions.titleBarStyle,
         fastQuit: inpOptions.fastQuit || false,
         userAgent: inpOptions.userAgent,
         ignoreCertificate: inpOptions.ignoreCertificate || false,

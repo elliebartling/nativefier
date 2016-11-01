@@ -104,6 +104,7 @@ function selectAppArgs(options) {
         maxWidth: options.maxWidth,
         maxHeight: options.maxHeight,
         showMenuBar: options.showMenuBar,
+        titleBarStyle: options.titleBarStyle,
         fastQuit: options.fastQuit,
         userAgent: options.userAgent,
         nativefierVersion: options.nativefierVersion,
